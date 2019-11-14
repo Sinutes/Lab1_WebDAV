@@ -1,0 +1,15 @@
+.delete_button {
+    background: red;
+    color: white;
+    font-size: 9pt;
+}
+
+.create_button {
+    background: green;
+    color: white;
+    font-size: 9pt;
+}
+
+.right_tab {
+    margin-left: 30px
+}
